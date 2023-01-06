@@ -267,5 +267,7 @@ $RECYCLE.BIN/
 # Replacement of .externalNativeBuild directories introduced		
 .cxx/
 
+local.properties
+
 
 # End of https://www.gitignore.io/api/macos,linux,kotlin,android,windows,androidstudio
